@@ -15,12 +15,10 @@ MTTD-R (Mean Time to Detect and Repair / Recovery) is a metric that measures the
 - Showing which applications or services are the root cause of problems
 
 ## Screenshot
-<ul>
-  <li><h3><a href="#big-summarize">Big Summarize</a></h3></li>
-  <li><h3><a href="#trend-problem">Trend Problem</a></h3></li>
-  <li><h3><a href="#statistics-application-and-host">Statistics Application and Host</a></h3></li>
-  <li><h3><a href="#full-screenshoot">Full Screenshoot</a></h3></li>
-</ul>
+- [Big Summarize](#big-summarize) 
+- [Trend Problem](#trend-problem) 
+- [Statistics Application and Host](#statistics-application-and-host)
+- [Full Screenshoot](#full-screenshoot)
 
 
 ### Big Summarize
