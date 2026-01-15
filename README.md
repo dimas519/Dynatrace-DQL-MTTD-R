@@ -25,12 +25,12 @@ MTTD-R (Mean Time to Detect and Repair / Recovery) is a metric that measures the
 
 ![Linking failed, Please Refers to Image Folder](/images/Main_Section.png)
 
-- ### Trend Problem
+### Trend Problem
 
 ![Linking failed, Please Refers to Image Folder](/images/Trend_Section.png)
 
-- ### Statistics Application and Host
+### Statistics Application and Host
 ![Linking failed, Please Refers to Image Folder](/images/App_Statistics.png)
 
-- ### Full Screenshoot
+### Full Screenshoot
 ![Linking failed, Please Refers to Image Folder](/images/Original%20MTTR.png)
